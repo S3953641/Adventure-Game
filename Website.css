@@ -1,0 +1,49 @@
+body {background-image: url('forestBG.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+     }
+
+     h1 {color:gold;
+        font-family:fantasy;
+        font-size: 300%;
+        text-align: center;
+        }
+
+     h2 {color:white;
+        font-family: fantasy;
+        font-size: 200%;
+        text-align: center;
+        }
+
+     p {color:black;
+       font-family:initial;
+       font-size: 150%;
+       text-align: center;
+       }
+
+     p {color:white;
+        font-family:initial;
+        font-size: 150%;
+        text-align: center;
+    }
+
+    h3 {color:white;
+        font-family:fantasy;
+        font-size: 150%;
+        text-align: center;
+    }
+
+     .button {
+        background-color: black;
+        color:white;
+        padding: 16px 32px;
+        text-align: center;
+        font-size: 32px;
+        margin: 50px 48px;
+        cursor: pointer;
+    }
+
+    .wrapper {
+        text-align: center;
+    }

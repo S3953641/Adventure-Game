@@ -1,0 +1,33 @@
+body {background-image: url('BGforFinalPage1.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+
+   h1 {color:aqua;
+    font-family:fantasy;
+    font-size: 300%;
+    text-align: center;
+   }
+
+   h3 {color:white;
+    font-family: monospace;
+    font-size: 200%;
+    text-align: center;
+   }
+
+   h2 {color:aqua;
+    font-family: fantasy;
+    font-size: 250%;
+    text-align: center;
+   }
+
+   .button {
+    background-color: black;
+    color:red;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 32px;
+    margin: 50px 48px;
+    cursor: pointer;
+}

@@ -1,0 +1,85 @@
+body {background-image: url('Door1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px 1000px;
+    font-family:Cormorant Infant;
+    }
+
+    h1   {color: white;
+    font-family:Cormorant Infant;
+    font-size: 300%;
+    text-align: center;}
+    
+    h2   {color: white;
+    font-family: Cormorant Infant;
+    font-size: 300%;
+    text-align:center;}
+    
+  
+    
+    pre {color:white;
+    font-family:Cormorant Infant;
+    font-size: 80%;
+    text-align: left;}
+
+    div {
+      margin: 30px 20px;
+      text-align: center;
+      display: inline-block;
+      width: 600px;
+    }
+
+    h3 {color:whitesmoke;
+      font-family:Cormorant Infant;
+      
+      width: 500px;
+      height: 600px;
+      margin: 100px 450px;
+      font-size: 200%;
+      text-align: center;
+
+    }
+   
+    
+    .button {
+      width: 430px;
+      height: 200px;
+      background-color: black;
+    color:black;
+    padding: 8px 16px;
+    font-family:Cormorant Infant;
+    font-size: 25px;
+    margin: 50px 26px;
+    cursor: pointer;
+    
+    }
+    
+    header {
+          
+          padding: 20px;
+          margin: 50px 26px;
+          text-align: center;
+          
+          font-size: 15px;
+          color: lightblue;
+      }
+    
+    footer {
+    text-align:center;
+      
+    }
+    
+   
+    
+    article {
+      color:white;
+      text-align: center;
+      margin: 50px 26px;
+     
+    font-family: Cormorant Infant;
+    font-size: 200%;
+    
+    }
+    
+    
+    

@@ -1,0 +1,47 @@
+body{
+    background-image: url("level4Image.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px 1000px;
+   
+}
+h1{
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 400%;
+    text-align: center;
+
+}
+.button{
+    width: 430px;
+    height: 200px;
+    margin: 15px 30px;
+    background-color: black;
+    color: goldenrod;
+    text-align: center;
+    font-size: 40px;
+    cursor: pointer;
+    }
+ pre{
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 150%;
+    text-align: center;
+
+ }   
+
+ div {
+    border: 2px solid;
+    padding: 20px; 
+    width: 300px;
+    resize: both;
+    overflow: auto;
+  }
+  footer{
+      text-align: center;
+  }
+  article{
+      text-align: center;
+      color: white;
+      font-size: 150%;
+  }

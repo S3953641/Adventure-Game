@@ -1,0 +1,51 @@
+body{
+    background-image: url("lockImageLevel3.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 300%;
+    text-align: center;
+
+}
+.button{
+    background-color: black;
+    color: goldenrod;
+    padding: 50px 50px;
+    text-align: center;
+    font-size: 40px;
+    margin: 30px 30px;
+    cursor: pointer;
+    }
+ pre{
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 150%;
+    text-align: left;
+
+ }   
+ pre1{
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 400%;
+    text-align: center;
+
+ }   
+ div {
+    border: 2px solid;
+    padding: 20px; 
+    width: 300px;
+    resize: both;
+    overflow: auto;
+  }
+  footer{
+      text-align: center;
+  }
+  article{
+      text-align: center;
+      color: white;
+      font-size: 300%;
+  }
